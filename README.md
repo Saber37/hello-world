@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Learn to create a Git.
